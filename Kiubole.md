@@ -3,8 +3,7 @@ if A=="sí":
     print("Yo te amo más mi amor ❤️")
 elif A=="si":
     print("Que bello amorcito, yo te amo más <3")
-elif A=="Sí
-":
+elif A=="Sí":
     print("Que bello amorcito, yo te amo más <3")
 elif A=="Obvio":
     print("Yo sabía que ibas a decir que sí mi amor ❤️")
